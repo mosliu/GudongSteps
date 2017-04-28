@@ -1,0 +1,11 @@
+{
+  "name": "api-tester",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "form-data": "^2.1.4",
+    "moment": "^2.18.1",
+    "request": "^2.81.0"
+  }
+}
