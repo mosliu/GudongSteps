@@ -37,8 +37,8 @@ var url = "https://openapi.codoon.com/token";
 
 
 // let username = '18615206565';
-let username = '15269116672';
-let password = 'Moses0319';
+let username = '1';
+let password = 'm';
 let timestamp = 0;
 let refresh_token = "0";
 let user_id = "0";
@@ -192,9 +192,9 @@ async function getWxPic(){
             // headers: headers,
             headers: headers,
             form:{
-                email:"15269116672",
+                email:"1",
                 nick:"nihaoaaaa",
-                password:"Moses0319",
+                password:"m",
                 code:"312393"
             }
         });
